@@ -1,4 +1,4 @@
-# BLS Turkey Spain Visa Checker Bot 🇹🇷🇪🇸
+# BLS Turkey Spain Visa Checker Bot
 
 A simple bot to check Spain visa appointment availability on BLS Turkey website using **Selenium** and **Tesseract OCR**.
 
